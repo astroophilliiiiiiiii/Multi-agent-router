@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.next/
+.turbo/
+*.tsbuildinfo
+.env
+.env.local
+.env.*.local
+!.env.example
+HANDOFF.md
+.DS_Store
+coverage/
+playwright-report/
+test-results/
